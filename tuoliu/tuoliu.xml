@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <title foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">凤台电厂1号机组</title>
+    <time foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">2014-2-16 11:54:02</time>
+    <reftime>60</reftime>
+    <ditu>gas_so2_new.jpg</ditu>
+    <tuoxiaourl>flow_tuoxiao.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400</tuoxiaourl>
+    <shebeiwenzi>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="20">上月</name>
+            <x_pos>520</x_pos>
+            <y_pos>133</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="20" fontStyle="bold">真空皮带脱水机</name>
+            <x_pos>808</x_pos>
+            <y_pos>427</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">排浆泵</name>
+            <x_pos>744</x_pos>
+            <y_pos>620</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">浆液循环泵</name>
+            <x_pos>668</x_pos>
+            <y_pos>535</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">氧化风机</name>
+            <x_pos>230</x_pos>
+            <y_pos>640</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">电除尘器</name>
+            <x_pos>160</x_pos>
+            <y_pos>105</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">密封风机</name>
+            <x_pos>390</x_pos>
+            <y_pos>133</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">净烟气档板</name>
+            <x_pos>270</x_pos>
+            <y_pos>60</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">入口</name>
+            <x_pos>1</x_pos>
+            <y_pos>12</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">出口</name>
+            <x_pos>980</x_pos>
+            <y_pos>157</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">给料器1</name>
+            <x_pos>26</x_pos>
+            <y_pos>296</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">给料器2</name>
+            <x_pos>26</x_pos>
+            <y_pos>388</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">水力漩流器</name>
+            <x_pos>733</x_pos>
+            <y_pos>333</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石灰石浆液泵</name>
+            <x_pos>360</x_pos>
+            <y_pos>536</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">烟气换热器</name>
+            <x_pos>380</x_pos>
+            <y_pos>280</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石灰石粉</name>
+            <x_pos>2</x_pos>
+            <y_pos>336</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石膏仓</name>
+            <x_pos>900</x_pos>
+            <y_pos>530</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石灰石浆液箱</name>
+            <x_pos>220</x_pos>
+            <y_pos>470</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石灰石粉仓</name>
+            <x_pos>229</x_pos>
+            <y_pos>352</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">吸收塔</name>
+            <x_pos>570</x_pos>
+            <y_pos>610</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">本月</name>
+            <x_pos>520</x_pos>
+            <y_pos>113</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">昨日</name>
+            <x_pos>520</x_pos>
+            <y_pos>93</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">今日</name>
+            <x_pos>520</x_pos>
+            <y_pos>73</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">排放SO2</name>
+            <x_pos>740</x_pos>
+            <y_pos>45</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">削减SO2</name>
+            <x_pos>620</x_pos>
+            <y_pos>45</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">本年</name>
+            <x_pos>520</x_pos>
+            <y_pos>153</y_pos>
+        </item>
+    </shebeiwenzi>
+    <shishishuju>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="20">烟气瞬时流量:1565(KNm3)</name>
+            <x_pos>20</x_pos>
+            <y_pos>5</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=3&amp;value=1565</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="16">SO2浓度:2176(mg/Nm3)</name>
+            <x_pos>20</x_pos>
+            <y_pos>25</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=4&amp;value=2176</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">NOX浓度:69(mg/Nm3)</name>
+            <x_pos>20</x_pos>
+            <y_pos>45</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=5&amp;value=69</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">烟尘浓度:17(mg/Nm3)</name>
+            <x_pos>160</x_pos>
+            <y_pos>65</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=6&amp;value=17</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">含氧量:6(%)</name>
+            <x_pos>160</x_pos>
+            <y_pos>5</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=7&amp;value=6</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">压力:-245(Pa)</name>
+            <x_pos>160</x_pos>
+            <y_pos>25</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=8&amp;value=-245</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">温度:85(℃)</name>
+            <x_pos>160</x_pos>
+            <y_pos>45</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=9&amp;value=85</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">烟气瞬时流量:1359(KNm3)</name>
+            <x_pos>850</x_pos>
+            <y_pos>10</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=12&amp;value=1359</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">SO2浓度:106(mg/Nm3)</name>
+            <x_pos>850</x_pos>
+            <y_pos>30</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=13&amp;value=106</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">NOX浓度:39(mg/Nm3)</name>
+            <x_pos>850</x_pos>
+            <y_pos>50</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=14&amp;value=39</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">烟尘浓度:26(mg/Nm3)</name>
+            <x_pos>850</x_pos>
+            <y_pos>130</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=15&amp;value=26</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">含氧量:3.46(%)</name>
+            <x_pos>850</x_pos>
+            <y_pos>70</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=16&amp;value=3.46</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">压力:-991.9(Pa)</name>
+            <x_pos>850</x_pos>
+            <y_pos>90</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=17&amp;value=-991.9</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">温度:58(℃)</name>
+            <x_pos>850</x_pos>
+            <y_pos>110</y_pos>
+            <over_std>1</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=18&amp;value=58</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">电流:0(A)</name>
+            <x_pos>264</x_pos>
+            <y_pos>266</y_pos>
+            <over_std>1</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=19&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">1#:0(A)</name>
+            <x_pos>301</x_pos>
+            <y_pos>610</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=21&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">机组负荷:528(MW)</name>
+            <x_pos>500</x_pos>
+            <y_pos>10</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=22&amp;value=528</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">脱硫效率:92.15(%)</name>
+            <x_pos>630</x_pos>
+            <y_pos>10</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=29&amp;value=92.15</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">2#:0(A)</name>
+            <x_pos>301</x_pos>
+            <y_pos>625</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=44&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">3#:0(A)</name>
+            <x_pos>301</x_pos>
+            <y_pos>640</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=45&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">1#:0(A)</name>
+            <x_pos>695</x_pos>
+            <y_pos>547</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=46&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">2#:0(A)</name>
+            <x_pos>695</x_pos>
+            <y_pos>562</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=47&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">3#:136(A)</name>
+            <x_pos>695</x_pos>
+            <y_pos>577</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=48&amp;value=136</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">1#加粉时间:758(分钟)</name>
+            <x_pos>10</x_pos>
+            <y_pos>252</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=53&amp;value=758</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">2#加粉时间:758(分钟)</name>
+            <x_pos>10</x_pos>
+            <y_pos>425</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=55&amp;value=758</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石膏时段排量:0(m3)</name>
+            <x_pos>784</x_pos>
+            <y_pos>530</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=57&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">皮带瞬时速度:18(m/h)</name>
+            <x_pos>784</x_pos>
+            <y_pos>500</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=59&amp;value=18</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石膏瞬时厚度:0(mm)</name>
+            <x_pos>784</x_pos>
+            <y_pos>515</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=60&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石灰石粉投放量:28.43(吨)</name>
+            <x_pos>192</x_pos>
+            <y_pos>400</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=61&amp;value=28.43</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">石膏时段排量:0(吨)</name>
+            <x_pos>784</x_pos>
+            <y_pos>545</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=62&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">1#:0(A)</name>
+            <x_pos>368</x_pos>
+            <y_pos>60</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=71&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">2#:0(A)</name>
+            <x_pos>368</x_pos>
+            <y_pos>106</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=72&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">1#加料泵:0(A)</name>
+            <x_pos>10</x_pos>
+            <y_pos>267</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=73&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">2#加料泵:0(A)</name>
+            <x_pos>10</x_pos>
+            <y_pos>440</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=74&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">脱硫岛PH:5.9()</name>
+            <x_pos>576</x_pos>
+            <y_pos>321</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=75&amp;value=5.9</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">111138.6(吨)</name>
+            <x_pos>620</x_pos>
+            <y_pos>73</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=81&amp;value=38.6</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">111138.6(吨)</name>
+            <x_pos>620</x_pos>
+            <y_pos>73</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=81&amp;value=38.6</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">11111.47(吨)</name>
+            <x_pos>740</x_pos>
+            <y_pos>73</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=82&amp;value=1.47</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">11111.47(吨)</name>
+            <x_pos>740</x_pos>
+            <y_pos>73</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=82&amp;value=1.47</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">111182.46(吨)</name>
+            <x_pos>620</x_pos>
+            <y_pos>93</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=83&amp;value=82.46</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">111182.46(吨)</name>
+            <x_pos>620</x_pos>
+            <y_pos>93</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=83&amp;value=82.46</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">11112.86(吨)</name>
+            <x_pos>740</x_pos>
+            <y_pos>93</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=84&amp;value=2.86</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">11112.86(吨)</name>
+            <x_pos>740</x_pos>
+            <y_pos>93</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=84&amp;value=2.86</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">11111410.45(吨)</name>
+            <x_pos>620</x_pos>
+            <y_pos>113</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=85&amp;value=1410.45</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">11111410.45(吨)</name>
+            <x_pos>620</x_pos>
+            <y_pos>113</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=85&amp;value=1410.45</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">111151.12(吨)</name>
+            <x_pos>740</x_pos>
+            <y_pos>113</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=86&amp;value=51.12</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">111151.12(吨)</name>
+            <x_pos>740</x_pos>
+            <y_pos>113</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=86&amp;value=51.12</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">11113638.83(吨)</name>
+            <x_pos>620</x_pos>
+            <y_pos>133</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=87&amp;value=3638.83</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">1111113.08(吨)</name>
+            <x_pos>740</x_pos>
+            <y_pos>133</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=88&amp;value=113.08</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">111117138.06(吨)</name>
+            <x_pos>620</x_pos>
+            <y_pos>153</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=89&amp;value=17138.06</url>
+        </item>
+        <item>
+            <name foreColor="0x123456" fontFamily="微软雅黑" fontSize="14">1111404.32(吨)</name>
+            <x_pos>740</x_pos>
+            <y_pos>153</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=90&amp;value=404.32</url>
+        </item>
+    </shishishuju>
+    <zhishideng>
+        <item>
+            <x_pos>57</x_pos>
+            <y_pos>375</y_pos>
+            <data_precision>15</data_precision>
+            <state>1</state>
+        </item>
+        <item>
+            <x_pos>262</x_pos>
+            <y_pos>590</y_pos>
+            <data_precision>15</data_precision>
+            <state>1</state>
+        </item>
+        <item>
+            <x_pos>723</x_pos>
+            <y_pos>530</y_pos>
+            <data_precision>15</data_precision>
+            <state>1</state>
+        </item>
+        <item>
+            <x_pos>285</x_pos>
+            <y_pos>229</y_pos>
+            <data_precision>15</data_precision>
+            <state>1</state>
+        </item>
+        <item>
+            <x_pos>57</x_pos>
+            <y_pos>306</y_pos>
+            <data_precision>15</data_precision>
+            <state>1</state>
+        </item>
+        <item>
+            <x_pos>401</x_pos>
+            <y_pos>490</y_pos>
+            <data_precision>15</data_precision>
+            <state>1</state>
+        </item>
+        <item>
+            <x_pos>748</x_pos>
+            <y_pos>595</y_pos>
+            <data_precision>15</data_precision>
+            <state>1</state>
+        </item>
+    </zhishideng>
+</Lct>

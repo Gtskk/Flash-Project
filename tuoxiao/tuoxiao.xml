@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <title foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">凤台电厂1号机组</title>
+    <time foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">2014-2-17 10:51:05</time>
+    <reftime>60</reftime>
+    <ditu>gas_xiao_yean.jpg</ditu>
+    <scrurl>flow_scr.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400</scrurl>
+    <tuoliuurl>flow_tuoliu.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400</tuoliuurl>
+    <shebeiwenzi>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15" fontStyle="bold">氨气缓冲器</name>
+            <x_pos>573</x_pos>
+            <y_pos>352</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">自动卸氨槽车</name>
+            <x_pos>629</x_pos>
+            <y_pos>23</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">静态混合器</name>
+            <x_pos>253</x_pos>
+            <y_pos>222</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">锅炉</name>
+            <x_pos>65</x_pos>
+            <y_pos>292</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">省煤器</name>
+            <x_pos>162</x_pos>
+            <y_pos>194</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">喷氨格栅</name>
+            <x_pos>253</x_pos>
+            <y_pos>246</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">催化剂层</name>
+            <x_pos>325</x_pos>
+            <y_pos>254</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">SCR反应器</name>
+            <x_pos>309</x_pos>
+            <y_pos>142</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">空气预热器</name>
+            <x_pos>213</x_pos>
+            <y_pos>482</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">除尘器</name>
+            <x_pos>368</x_pos>
+            <y_pos>578</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">氨气稀释风机</name>
+            <x_pos>373</x_pos>
+            <y_pos>522</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">稀释空气加热器</name>
+            <x_pos>477</x_pos>
+            <y_pos>466</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">氨空混合器</name>
+            <x_pos>493</x_pos>
+            <y_pos>54</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">液氨蒸发器</name>
+            <x_pos>661</x_pos>
+            <y_pos>512</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">氨气稀释罐</name>
+            <x_pos>885</x_pos>
+            <y_pos>252</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">废水池</name>
+            <x_pos>885</x_pos>
+            <y_pos>440</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">气氨进</name>
+            <x_pos>685</x_pos>
+            <y_pos>63</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">液氨出</name>
+            <x_pos>685</x_pos>
+            <y_pos>103</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">氨卸料压缩机</name>
+            <x_pos>765</x_pos>
+            <y_pos>153</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">膨胀节</name>
+            <x_pos>317</x_pos>
+            <y_pos>394</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">出口挡板</name>
+            <x_pos>301</x_pos>
+            <y_pos>410</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">旁路挡板</name>
+            <x_pos>165</x_pos>
+            <y_pos>346</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">入口挡板</name>
+            <x_pos>205</x_pos>
+            <y_pos>314</y_pos>
+        </item>
+    </shebeiwenzi>
+    <shishishuju>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">A-入口NOx:355(mg/Nm3)</name>
+            <x_pos>700</x_pos>
+            <y_pos>590</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=308&amp;value=355</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">B-入口NOx:402(mg/Nm3)</name>
+            <x_pos>850</x_pos>
+            <y_pos>590</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=320&amp;value=402</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">A-SCR出口NOx:49(mg/Nm3)</name>
+            <x_pos>700</x_pos>
+            <y_pos>610</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=324&amp;value=49</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">A-出口逃逸NH3:0(ppm)</name>
+            <x_pos>700</x_pos>
+            <y_pos>570</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=328&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">A-脱硝效率:86.2(%)</name>
+            <x_pos>700</x_pos>
+            <y_pos>630</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=329&amp;value=86.2</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">B-SCR出口NOx:62(mg/Nm3)</name>
+            <x_pos>850</x_pos>
+            <y_pos>610</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=332&amp;value=62</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">B-出口逃逸NH3:0(ppm)</name>
+            <x_pos>850</x_pos>
+            <y_pos>570</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=336&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">B-脱硝效率:84.58(%)</name>
+            <x_pos>850</x_pos>
+            <y_pos>630</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=337&amp;value=84.58</url>
+        </item>
+    </shishishuju>
+</Lct>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jianjie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <url>
+        <tuoxiaourl>flow_tuoxiao.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400</tuoxiaourl>
+        <tuoliuurl>flow_tuoliu.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400</tuoliuurl>
+    </url>
+    <item>
+        <MC foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="22" fontStyle="bold">静电除尘器</MC>
+        <X0>83</X0>
+        <X1>283</X1>
+        <Y0>278</Y0>
+        <Y1>318</Y1>
+        <MEMO foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">静电除尘器</MEMO>
+		<WAV>test.wav</WAV>
+    </item>
+    <item>
+        <MC foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">烟气换热器</MC>
+        <X0>83</X0>
+        <X1>283</X1>
+        <Y0>204</Y0>
+        <Y1>250</Y1>
+        <MEMO foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">烟气换热器</MEMO>
+    </item>
+    <item>
+        <MC foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">SO2吸收塔</MC>
+        <X0>83</X0>
+        <X1>283</X1>
+        <Y0>313</Y0>
+        <Y1>353</Y1>
+        <MEMO foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">SO2吸收塔</MEMO>
+    </item>
+    <item>
+        <MC foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">SCR反应器</MC>
+        <X0>696</X0>
+        <X1>896</X1>
+        <Y0>477</Y0>
+        <Y1>510</Y1>
+        <MEMO foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">SCR反应器</MEMO>
+    </item>
+    <item>
+        <MC foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">储氨罐</MC>
+        <X0>696</X0>
+        <X1>896</X1>
+        <Y0>616</Y0>
+        <Y1>650</Y1>
+        <MEMO foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">储氨罐</MEMO>
+    </item>
+    <item>
+        <MC foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">石灰石膏湿法脱硫工艺</MC>
+        <X0>793</X0>
+        <X1>993</X1>
+        <Y0>192</Y0>
+        <Y1>224</Y1>
+        <MEMO foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">石灰石膏湿法脱硫工艺</MEMO>
+    </item>
+    <item>
+        <MC foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">液氨SCR脱硝工艺</MC>
+        <X0>97</X0>
+        <X1>297</X1>
+        <Y0>616</Y0>
+        <Y1>646</Y1>
+        <MEMO foreColor="0x008ac8" fontFamily="微软雅黑" fontSize="15">液氨SCR脱硝工艺</MEMO>
+    </item>
+    <ditu>ditu.jpg</ditu>
+    <title foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">脱硫脱硝流程图</title>
+</Jianjie>

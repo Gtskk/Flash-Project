@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <title foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">凤台电厂1号机组</title>
+    <time foreColor="0x222725" fontFamily="微软雅黑" fontSize="15" fontStyle="bold">2014-2-17 10:51:41</time>
+    <reftime>60</reftime>
+    <ditu>gas_xiao.jpg</ditu>
+    <shebeiwenzi>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15" fontStyle="bold">A侧入口烟气分析</name>
+            <x_pos>70</x_pos>
+            <y_pos>315</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">B侧入口烟气分析</name>
+            <x_pos>820</x_pos>
+            <y_pos>315</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">储气罐</name>
+            <x_pos>860</x_pos>
+            <y_pos>4</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">氨气混合器</name>
+            <x_pos>460</x_pos>
+            <y_pos>480</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">A侧出口烟气分析</name>
+            <x_pos>70</x_pos>
+            <y_pos>490</y_pos>
+        </item>
+        <item>
+            <name foreColor="0x222725" fontFamily="微软雅黑" fontSize="15">B侧出口烟气分析</name>
+            <x_pos>820</x_pos>
+            <y_pos>490</y_pos>
+        </item>
+    </shebeiwenzi>
+    <shishishuju>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="20">氨气瞬时量:74(Kg/h)</name>
+            <x_pos>550</x_pos>
+            <y_pos>585</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=303&amp;value=74</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">氨气阀开度:0(％)</name>
+            <x_pos>600</x_pos>
+            <y_pos>555</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=304&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">氨气压力:5.29(kPa)</name>
+            <x_pos>350</x_pos>
+            <y_pos>465</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=305&amp;value=5.29</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">烟气入口流量:0(kNm3/h)</name>
+            <x_pos>98</x_pos>
+            <y_pos>390</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=306&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">烟气入口温度:360(℃)</name>
+            <x_pos>93</x_pos>
+            <y_pos>240</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=307&amp;value=360</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">入口NOx:355(mg/Nm3)</name>
+            <x_pos>98</x_pos>
+            <y_pos>370</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=308&amp;value=355</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">入口O2含量:3.19(％)</name>
+            <x_pos>98</x_pos>
+            <y_pos>350</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=309&amp;value=3.19</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">入口开断阀状态:0()</name>
+            <x_pos>680</x_pos>
+            <y_pos>585</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=310&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">入口开断阀状态:0()</name>
+            <x_pos>680</x_pos>
+            <y_pos>510</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=311&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">氨气瞬时量:206(Kg/h)</name>
+            <x_pos>550</x_pos>
+            <y_pos>510</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=315&amp;value=206</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">氨气阀开度:13.09(％)</name>
+            <x_pos>600</x_pos>
+            <y_pos>480</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=316&amp;value=13.09</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">氨气压力:4.8(kPa)</name>
+            <x_pos>550</x_pos>
+            <y_pos>465</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=317&amp;value=4.8</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">烟气入口流量:0(kNm3/h)</name>
+            <x_pos>770</x_pos>
+            <y_pos>390</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=318&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">烟气入口温度:388(℃)</name>
+            <x_pos>850</x_pos>
+            <y_pos>240</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=319&amp;value=388</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">入口NOx:402(mg/Nm3)</name>
+            <x_pos>770</x_pos>
+            <y_pos>370</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=320&amp;value=402</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">入口O2含量:0.17(％)</name>
+            <x_pos>770</x_pos>
+            <y_pos>350</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=321&amp;value=0.17</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">SCR出口NOx:49(mg/Nm3)</name>
+            <x_pos>98</x_pos>
+            <y_pos>530</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=324&amp;value=49</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">SCR出口O2含量:0(%)</name>
+            <x_pos>98</x_pos>
+            <y_pos>510</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=325&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">烟气出口温度:368(℃)</name>
+            <x_pos>270</x_pos>
+            <y_pos>380</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=326&amp;value=368</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">出口逃逸NH3:0(ppm)</name>
+            <x_pos>270</x_pos>
+            <y_pos>340</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=328&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">脱硝效率:86.2(%)</name>
+            <x_pos>98</x_pos>
+            <y_pos>550</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=329&amp;value=86.2</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">SCR出口NOx:62(mg/Nm3)</name>
+            <x_pos>770</x_pos>
+            <y_pos>530</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=332&amp;value=62</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">SCR出口O2含量:2.94(%)</name>
+            <x_pos>770</x_pos>
+            <y_pos>510</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=333&amp;value=2.94</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">烟气出口温度:373(℃)</name>
+            <x_pos>600</x_pos>
+            <y_pos>380</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=334&amp;value=373</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">出口逃逸NH3:0(ppm)</name>
+            <x_pos>600</x_pos>
+            <y_pos>340</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=336&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">脱硝效率:84.58(%)</name>
+            <x_pos>770</x_pos>
+            <y_pos>550</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=337&amp;value=84.58</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">稀释风机电流:36(A)</name>
+            <x_pos>330</x_pos>
+            <y_pos>560</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=340&amp;value=36</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">稀释风机电流:0(A)</name>
+            <x_pos>330</x_pos>
+            <y_pos>650</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=341&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">稀释空气进给流量:0(kNm3/h)</name>
+            <x_pos>330</x_pos>
+            <y_pos>580</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=344&amp;value=0</url>
+        </item>
+        <item>
+            <name foreColor="0x203e66" fontFamily="微软雅黑" fontSize="15">稀释空气进给流量:0(kNm3/h)</name>
+            <x_pos>330</x_pos>
+            <y_pos>670</y_pos>
+            <over_std>0</over_std>
+            <url>http://localhost:10659/View/zhibiao_his_data.aspx?sbbh=1&amp;dwdm=5&amp;dqdm=340400&amp;item_no=345&amp;value=0</url>
+        </item>
+    </shishishuju>
+    <zhishideng />
+</Lct>
